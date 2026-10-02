@@ -1,0 +1,12 @@
+# Directed graph. Declare nodes before edges.
+node A
+node B
+node C
+node D
+node E
+node isolated
+edge A B 10
+edge B D 1
+edge A C 1
+edge C E 1
+edge E D 1
